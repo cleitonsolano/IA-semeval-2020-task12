@@ -1,5 +1,6 @@
 # IA-semeval-2020-task12
 Task 12: OffensEval 2: Identifying and Categorizing Offensive Language in Social Media (Twitter)
+http://alt.qcri.org/semeval2020/index.php?id=tasks
 
 ## Task 12
 * Com o advento das principais plataformas de mídia social, preocupações crescentes cercam a segurança e a experiência on-line do usuário. Participo da tarefa compartilhada OffensEval do SemEval-2019, que usa o conjunto de dados de identificação de idioma ofensivo (OLID; Zampieri et al., 2019) para identificar linguagem ofensiva e abusiva nos tweets*. A seguir, siga o funcionamento das duas tasks:
